@@ -1090,7 +1090,7 @@ body {
   font-size: 16px;
   line-height: 1.42857143;
   color: #3e3f3a;
-  background-color: #ffffff;
+  background-color: #C5C6C7;
 }
 input,
 button,
@@ -1101,12 +1101,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #93c54b;
+  color: #41b3a3;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #79a736;
+  color: #41b3a3;
   text-decoration: underline;
 }
 a:focus {
@@ -4559,7 +4559,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #8e8c84;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #98978b;
+  color: #41b3a3;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
@@ -6852,7 +6852,7 @@ input:focus,
 .nav-tabs > li > a {
   background-color: #f8f5f0;
   border-color: #dfd7ca;
-  color: #98978b;
+  color: #41b3a3;
 }
 .nav-tabs > li.disabled > a:hover {
   background-color: #f8f5f0;
